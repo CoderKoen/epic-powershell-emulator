@@ -2,6 +2,4 @@
 A PowerShell emulator but bad!
 
 
-Linux is supported
-Windows is comming later
-MacOS support is in the far future
+Linux is supported. Windows support is in the futute, MacOS support is in the far future
